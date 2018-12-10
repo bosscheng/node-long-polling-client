@@ -84,7 +84,7 @@
 
 - debug  是否开启debug模式，开启了之后，会有运行日志。
 
-- transportType  选择传输的类型 ["callback-polling","long-polling","websocket","polling"]
+- transportType  选择传输的类型 ["long-polling","polling"]
 
 ## connect(callback)
 创建连接
